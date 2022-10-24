@@ -1,4 +1,4 @@
-# KiemThuChucNang
+# Calculate Student Rank
 ## Language
 - Java
 ## Library
